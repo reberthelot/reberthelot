@@ -4,7 +4,7 @@
 
 I am a **Double Degree student** currently pursuing an **MSc in Human-Centered AI** at the Technical University of Denmark (DTU). My academic background is rooted in **General Engineering** from Centrale Lyon, one of the top five engineering schools in France. This journey began with a two-year intensive undergraduate course at Lycée Descartes where I developed **strong scientific foundations in mathematics and general physics**, placing in a top-graded class and mastering numerical methods and complex scientific reasoning.
 
-I am passionate about designing **ethical, user-friendly AI solutions** and bridging the gap between complex software and human interaction. My expertise covers the full spectrum of **Machine Learning**, Deep Learning, and Computational Data Analysis. I have also several practical experiences in AI automations like automating dental lab order process using LLMs or extract and synthesize patient medical histories from cancerologic reports.
+I am passionate about solving problems that makes sense with **ethical AI solutions**. I bear a lot of meaning to the value brought with my solutions. My expertise covers the full spectrum of **Machine Learning**, Deep Learning,. I have also several practical experiences in AI automations like automating dental lab order process using LLMs or extract and synthesize patient medical histories from cancerologic reports. I am currently self-learning on Reinforcement learning and AI workflow automations tools.
 
 I am open to new opportunities, feel free to reach me !
 
@@ -23,16 +23,14 @@ I am open to new opportunities, feel free to reach me !
 ---
 
 ### Professional Experience
-
 * **AI Intern | 3DCelo** (May 2025 – Aug 2025)
     * Automated 60% of dentist order processing using LLMs and OCR with 95% accuracy.
     * Developed a processing pipeline using Python, FastAPI, and Tesseract OCR.
 * **Math Expert for AI Training | Outlier AI** (2024 – 2025)
     * Designed 200+ advanced math prompts to improve LLM response accuracy.
     * Contributed to error analysis and iterative improvements for multi-turn chat systems.
-* **Virtual Assistant | Excellons Methodik** (2021 – 2024)
-    * Managed client relations and Google internet advertisements for a tutoring agency.
 * **Various gig jobs unrelated my aspirations | N/A** (2020 – 2026)
+    * Five years remote assistant for a tutoring agency: managing client relations based on Google internet advertisements.
     * Student host for a European Data Science Industry Forum ;
     * Agricultural Worker in a private farm ;
     * General-Purpose Worker in a supermarket ;
@@ -41,13 +39,18 @@ I am open to new opportunities, feel free to reach me !
 ---
 
 ### Key Projects
-
+* **Feature Alignment for Composite Materials | DTU** (Nov 2025 – Dec 2025) [Github Repository](https://github.com/PierreHollebeque/02456_DL_Project)
+    * Developed a Cycle-GAN solution trained on unpaired data to upscale low-resolution infrared cameras outputs for physical experiment monitoring.
+    * Approximatly 50M parameters model trained on the DTU HPC for ~8 hours.
+* **Analysis of the Evolution of Alliances in the French National Assembly | DTU** (Nov 2025 - Dec 2025) [Github Repository](https://github.com/PierreHollebeque/02805_SocialGraph_Project)
+   * Modeling political alliances and polarization.
+   * Construction of legislative graphs based on roll-call votes and application of the Louvain algorithm for community detection.
+   * NLP implementation of an adapted TF-IDF approach to characterize the linguistic priorities of each community.
 * **Synthesis of Oncologic Reports | Coexya** (Sept 2024 – Apr 2025)
     * Utilized Mistral 8x7b and 24b models via LangChain to extract and synthesize patient medical histories from oncologic oral examination records.
 * **Predict the Tide | INRIA** (Feb 2025 – Apr 2025)
     * Built and compared Gradient Boosting, Random Forest, and CNN models to predict tide levels, achieving top 20% accuracy among 250 participants.
-* **Feature Alignment for Composite Materials | DTU** (Nov 2025 – Dec 2025)
-    * Developed a Cycle-GAN solution to upscale low-resolution infrared cameras outputs for physical experiment monitoring.
+
 
 ---
 
