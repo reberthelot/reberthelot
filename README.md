@@ -15,10 +15,10 @@ I am currently self-learning Reinforcement Learning and AI workflow automation t
 
 | Category | Technologies |
 | :--- | :--- |
-| **AI / Machine Learning** | Python (PyTorch, Scikit-Learn, LangChain), LLMs (OpenAI, MistralAI), Prompt Engineering |
-| **Data & APIs** | MATLAB, FastAPI, CRUD API with C#, Tesseract OCR, Data Analysis |
+| **AI / Machine Learning** | Python (PyTorch, Scikit-Learn, LangChain), LLMs, Prompt Engineering |
+| **Data & APIs** | MATLAB, FastAPI, Tesseract OCR, n8n |
 | **Tools & DevOps** | Git, Jira, WinSCP |
-| **UI/UX** | PyQt6, Tkinter, HTML/CSS |
+| **UI/UX** | PyQt6, Tkinter, HTML/CSS, Flutter |
 | **Languages** | French (Native), English (Fluent) |
 
 ---
@@ -30,7 +30,7 @@ I am currently self-learning Reinforcement Learning and AI workflow automation t
 * **Math Expert for AI Training | Outlier AI** (2024 – 2025)
     * Designed 200+ advanced math prompts to improve LLM response accuracy ; 
     * Contributed to error analysis and iterative improvements for multi-turn chat systems.
-* **Various gig jobs unrelated my aspirations | N/A** (2020 – 2026)
+* **Various gig jobs unrelated with my aspirations | N/A** (2020 – 2026)
     * Five years remote assistant for a tutoring agency: managing client relations based on Google internet advertisements ;
     * Student host for a European Data Science Industry Forum ;
     * Agricultural Worker in a private farm ;
